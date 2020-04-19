@@ -8,9 +8,7 @@
             <button class="row w-25 h-25 justify-content-center align-items-center" @click="changeClass">Sprawdź</button>
         </div>
     </div>
-    <div class="row first-law" :ref="firstLaw">
-      <h1>kk</h1>
-    </div>
+    test
   </div>
 </template>
 
