@@ -1,16 +1,5 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <div class="collapse navbar-collapse" id="navbarNavDropdown">
-          <ul class="navbar-nav">
-            <li class="nav-item">
-             <router-link to="/mine">Mine</router-link>
-            </li>
-          </ul>
-        </div>
-      </nav>
-    </div>
     <router-view />
   </div>
 </template>
